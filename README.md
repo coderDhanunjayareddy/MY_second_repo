@@ -23,7 +23,7 @@ A simple yet engaging **Circle Game** built using **HTML, CSS, and JavaScript**,
 ## 🚦 How to Play  
 1. Clone or download the repository  
    ```bash
-   git clone https://github.com/yourusername/circle-game.git
+   git clone https://github.com/coderDhanunjayareddy/MY_second_repo
 2. Open index.html in your browser
 3. Interact with the moving circles and enjoy the game! 🎉
 
